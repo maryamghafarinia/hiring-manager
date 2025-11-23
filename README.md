@@ -1,4 +1,4 @@
-# LoadUp Backend Engineering Challenge
+# API Design
 
 A production-grade REST API for managing job postings and candidate applications with intelligent automated scoring system.
 
